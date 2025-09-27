@@ -1,3 +1,5 @@
 <?
-include_once '/workspaces/php-course-template/sites/skuit/www/homework1/my_page.html';
+include_once '/workspaces/php-course-template/sites/skuit/www/lab4/header.php';
+include_once '/workspaces/php-course-template/sites/skuit/www/lab4/footer.php';
+include_once '/workspaces/php-course-template/sites/skuit/www/lab4/hobits.php'
 ?>
